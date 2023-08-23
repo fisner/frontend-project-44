@@ -2,11 +2,6 @@
   "name": "@hexlet/code",
   "version": "1.0.0",
   "description": "[![Actions Status](https://github.com/fisner/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/fisner/frontend-project-44/actions)",
-  "main": "index.js",
-  "bin": {
-    "nodejs-package": "bin/nodejs-package.js",
-    "brain-games": "bin/brain-games.js"
-  },
   "bin": {
     "nodejs-package": "bin/nodejs-package.js",
     "brain-games": "bin/brain-games.js"
@@ -19,10 +14,5 @@
     "url": "git+https://github.com/fisner/frontend-project-44.git"
   },
   "type": "module",
-  "type": "module",
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/fisner/frontend-project-44/issues"
-  },
-  "homepage": "https://github.com/fisner/frontend-projec
+  "homepage": "https://github.com/fisner/frontend-projec"
+}
