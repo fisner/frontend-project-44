@@ -16,7 +16,6 @@
     "type": "git",
     "url": "git+https://github.com/fisner/frontend-project-44.git"
   },
-  "type": "module",
   "homepage": "https://github.com/fisner/frontend-projec",
   "devDependencies": {
     "eslint": "^8.47.0",
